@@ -2,7 +2,7 @@
 
 ## Descrição
 
->Pequena aplicação feita em Node, onde foi utilizado a biblioteca Yargs para a criação de notas utilizado comandos através do terminal
+>Pequena aplicação feita em Node, onde foi utilizada a biblioteca Yargs para a criação de notas utilizado comandos através do terminal
 
 ## Code Samples
 
